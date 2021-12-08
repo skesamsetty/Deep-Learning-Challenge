@@ -10,6 +10,8 @@ After trying various deep learning activation functions to improve the performan
 
 While training the model, in the second attempt, the accuracy crossed 74% but the testing prediction accuracy remained lower. Accuracy plots can be viewed in the Images section of this repository.
 
+Provided the time, I would like to recommend and use the dimensionality techniques like Principal component analysis, t-SNE and perform the analysis to see improvements in the accuracy.
+
 1. Initially the neural network was designed with following hyperparameters:
 
         Number of Input Dimensions: 43
