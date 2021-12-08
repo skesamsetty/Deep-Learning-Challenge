@@ -25,7 +25,7 @@ While training the model, in the second attempt, the accuracy crossed 74% but th
             Activation  : Sigmoid
         Compile parameters: loss="binary_crossentropy", optimizer="adam"
         Epoch count: 50
-        Model Score using test data: loss: 54.69% - accuracy: 73.66%
+        Model Score using test data: loss: 54.77% - accuracy: 73.55%
 
         Target variables: IS_SUCCESSFUL
         Features: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT
@@ -50,7 +50,7 @@ While training the model, in the second attempt, the accuracy crossed 74% but th
             Activation  : Sigmoid
         Compile parameters: loss="binary_crossentropy", optimizer="adam"
         Epoch count: 50
-        Model Score using test data: loss: 54.90% - accuracy: 73.67%
+        Model Score using test data: loss: 54.90% - accuracy: 73.70%
 
         Target variables: IS_SUCCESSFUL
         Features: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT
